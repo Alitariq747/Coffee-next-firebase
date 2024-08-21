@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+It is a realtime coffee ordering application built with next.js and firebase as the backend, tailwind css and NextUi for styling and also react-hook-form for better form handling alongside typescript.
+It handles users authentication, add to cart functionality, placing order, an order success screen and also an admin panel only accessible by app admins where you access all placed orders in realtime and could be marked as done or completed.
+
 ## Getting Started
 
 First, run the development server:
